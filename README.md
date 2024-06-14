@@ -19,7 +19,9 @@ Usage
 Clone the repository:
 
 code:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/0707071/Boat-Detection.git
+cd Boat-Detection
+
 cd your-repo
 Install dependencies:
 
@@ -28,7 +30,8 @@ pip install -r requirements.txt
 Run the Streamlit application:
 
 code:
-streamlit run app.py
+streamlit run streamlit run yolo_application.py
+
 Upload an image or video file using the file uploader.
 
 Wait for the model to process the file and display the results.
